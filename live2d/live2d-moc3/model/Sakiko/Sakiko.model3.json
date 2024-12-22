@@ -1,0 +1,18 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Sakiko.moc3",
+		"Textures": [
+			"Sakiko.4096/texture_00.webp"
+		],
+		"Physics": "Sakiko.physics3.json",
+		"DisplayInfo": "Sakiko.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}
